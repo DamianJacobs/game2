@@ -1,0 +1,51 @@
+
+
+body{
+    background-image: url("img/run.jpg");
+    color: royalblue;
+}
+
+#left{
+    visibility: hidden;
+
+}
+
+#door {
+    visibility: hidden;
+
+}
+
+#rechts{
+    visibility: hidden;
+
+}
+
+#jaaa{
+    visibility: hidden;
+}
+
+#jaa{
+    visibility: hidden;
+}
+
+#begin {
+    background-image: inherit;
+    border: none;
+    font-size: 50px;
+    color: silver;
+    font-family: fantasy;
+    position: absolute;
+    margin: 190px;
+    margin-top: 300px;
+}
+
+#begin:hover {
+    background: black;
+    border: 1px solid midnightblue;
+    font-size: 50px;
+    color: Darkred;
+    font-family: fantasy;
+    position: absolute;
+    margin: 190px;
+    margin-top: 300px;
+}
